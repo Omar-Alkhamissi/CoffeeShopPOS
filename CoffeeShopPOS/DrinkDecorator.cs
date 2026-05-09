@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: DrinkDecorator
- * Purpose: Abstract base for all condiment decorators; wraps another Drink.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 using System.Reflection;
 

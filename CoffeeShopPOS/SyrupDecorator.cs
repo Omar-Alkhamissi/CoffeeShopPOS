@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: SyrupDecorator
- * Purpose: Adds Syrup condiment (+$0.50) to a Drink.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: Program
- * Purpose: Application entry point; advances CoffeeShop through four states.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

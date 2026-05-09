@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: CoffeeShop
- * Purpose: Context for State pattern; holds current state and currently ordered Drink.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

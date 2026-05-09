@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: PreparingState
- * Purpose: Prepare the selected drink and print cost; advance to PaymentState.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: HouseBlend
- * Purpose: Concrete Drink representing house blend drip coffee.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

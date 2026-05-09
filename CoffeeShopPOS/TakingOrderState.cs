@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: TakingOrderState
- * Purpose: Gather brewer, base drink, and condiments; set CurrentDrink; advance to PreparingState.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 using System.Linq;
 

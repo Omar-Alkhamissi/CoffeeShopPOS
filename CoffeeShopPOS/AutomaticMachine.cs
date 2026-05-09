@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: AutomaticMachine
- * Purpose: Concrete IBrewer implementor that simulates an automatic coffee machine.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

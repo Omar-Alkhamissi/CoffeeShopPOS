@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: Espresso
- * Purpose: Concrete Drink representing an espresso beverage.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

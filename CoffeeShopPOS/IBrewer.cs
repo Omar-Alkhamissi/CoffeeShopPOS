@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: IBrewer
- * Purpose: Implementor side of Bridge; anything that can brew a drink description.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

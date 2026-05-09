@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: PaymentState
- * Purpose: Collect payment until enough funds; print change; advance to PickupState.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: WhipDecorator
- * Purpose: Adds Whip condiment (+$0.40) to a Drink.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS

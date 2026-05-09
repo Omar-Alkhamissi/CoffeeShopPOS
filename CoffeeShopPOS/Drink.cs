@@ -1,10 +1,3 @@
-﻿/**
- * Class Name: Drink
- * Purpose: Bridge abstraction + Decorator component; base for all beverages.
- * Coder: Omar Alkhamissi
- * Date: 2025-07-17
- */
-
 using System;
 
 namespace CoffeeShopPOS
